@@ -1,4 +1,38 @@
 body
+h1{
+    font-family: monospace;
+    font-display: auto;
+    font-size: 40px;
+    text-align: center;
+    color: aqua;
+    background-image: url("../imgs/eatables.jpeg");
+    font-style: italic;
+    width: 100%;
+    border: 2px solid #4CAF50;
+    height: 500px;
+    }
 {
     color:green;
 }
+
+#nav{
+    color: red;
+    
+}
+
+a:hover {
+  background-color: bisque;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
